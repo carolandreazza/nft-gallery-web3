@@ -1,4 +1,13 @@
-# Next.js + Tailwind CSS Example
+# Gallery of NFTs on the web3
+
+Query NFTs in wallets or collections on the Ethereum network, integrating the Alchemy API. The result is a gallery of NFTs with a link to each one's contract.
+
+https://docs.alchemy.com/
+
+Next.js + Tailwind CSS Example
+
+![image](https://user-images.githubusercontent.com/29384128/188034103-bcc2c9a0-724c-4a2e-8c92-5f428746d19a.png)
+
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
